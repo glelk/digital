@@ -1,0 +1,9 @@
+h3. a wonderful text
+
+"I said, 'hold the -- mayo' ... twice!"
+2 x 2 = 4
+
+pre. this is just a code
+and this is another line
+
+and here we go, this will be @inline code@ just like that
